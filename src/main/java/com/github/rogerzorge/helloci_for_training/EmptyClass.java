@@ -1,4 +1,4 @@
-package com.github.vitalliuss.helloci;
+package com.github.rogerzorge.helloci_for_training;
 
 /**
  * Empty class for Cobertura code coverage

@@ -1,4 +1,4 @@
-package com.github.vitalliuss.helloci;
+package com.github.rogerzorge.helloci_for_training;
 
 
 import static org.junit.Assert.*;
